@@ -11,6 +11,6 @@
 	....
 文件格式判断
 	通过文件名
-	通过file工具
+	通过file工具:https://github.com/file/file
 
 """
