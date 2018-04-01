@@ -7,4 +7,5 @@ class Nose(object):
 	# 闻
 	def smell():
 		pass
+	# 呼吸
 

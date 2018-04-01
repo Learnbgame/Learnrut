@@ -6,6 +6,9 @@ class Mouth(object):
 		self.arg = arg
 	# 吃
 	def eat():
+		# 食物
+		# 吃的数量
+		# 食量
 		pass
 	# 说
 	def say():
