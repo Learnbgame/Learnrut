@@ -8,10 +8,10 @@ class Organ(object):
 
 
 # 组织类
-class Tisssue(object):
-	"""docstring for Tisssue"""
+class Tissue(object):
+	"""docstring for Tissue"""
 	def __init__(self, name):
-		super(Tisssue, self).__init__()
+		super(Tissue, self).__init__()
 		self.name = name
 		# 组织类型
 
@@ -39,7 +39,10 @@ class Cell(object):
 		# 全能性
 		
 	#细胞融合
-	def cellFusion():
+	def cellFusion(cell=list()):
+		# 生物法：HVJ法
+		# 化学法：高Ca离子、高PH结合PEG诱导融合，NaNO3诱导
+		# 物理法：电融合法
 		pass
 	#细胞繁殖
 	def cellReproduction():
