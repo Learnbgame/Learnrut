@@ -1,5 +1,3 @@
-
-
 # 细胞工程技术—cell engineering technology
 # 人工情况下
 class cellEngineeringTechnology(object):

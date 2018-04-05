@@ -34,6 +34,8 @@ class Leaf(object):
 		super(Leaf, self).__init__()
 		self.arg = arg
 
+# 种子
+
 
 
 # 分类
