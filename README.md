@@ -1,6 +1,10 @@
 # 所见即所得的百科全书：
 
-1.建立游戏场景，(目前尚未实现，但是有参考[farm](https://www.blend4web.com/apps/farm/farm.html?v=38ccd4be9c93b16cff5d8018746261bb)——[YoFrankie ](https://apricot.blender.org/)，因为是开源的，可以寻求合作，也可自己研究源代码)
+1.建立游戏场景，(目前尚未实现，但是有参考[farm](https://www.blend4web.com/apps/farm/farm.html)——[YoFrankie ](https://apricot.blender.org/)，因为是开源的，可以寻求合作，也可自己研究源代码):
+![](https://www.blend4web.com/media/img_demo/71/8.jpg
+![](https://www.blend4web.com/media/img_demo/71/12.jpg)
+![](https://apricot.blender.org/wp-content/uploads/2009/03/screen_nut-300x225.png)
+![](https://apricot.blender.org/wp-content/uploads/2009/03/screen_lighthouse-300x225.png)
 
 2.可以利用gps，osm数据快速建立三维城市场景，三维地图，三维地势，三维地理，比传统的游戏的场景和地图更具真实性[blender-osm]——[blender-gpx](https://github.com/vvoovv/blender-gpx)——[BlenderGIS](https://github.com/domlysz/BlenderGIS)[样例展示](http://www.openstreetmap.org/export#map=15/34.6293/112.4263)
 
