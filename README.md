@@ -2,9 +2,13 @@
 
 1.建立游戏场景，(目前尚未实现，但是有参考[farm](https://www.blend4web.com/apps/farm/farm.html?v=38ccd4be9c93b16cff5d8018746261bb)——[YoFrankie ](https://apricot.blender.org/)，因为是开源的，可以寻求合作，也可自己研究源代码)
 
-2.可以建立三维城市场景[blender-osm](http://www.openstreetmap.org/export#map=15/34.6293/112.4263)—— 
+2.可以利用gps，osm数据快速建立三维城市场景，三维地图，三维地势，三维地理，比传统的游戏的场景和地图更具真实性[blender-osm]——[blender-gpx](https://github.com/vvoovv/blender-gpx)——[BlenderGIS](https://github.com/domlysz/BlenderGIS)[样例展示](http://www.openstreetmap.org/export#map=15/34.6293/112.4263)
 
-![](https://pic2.zhimg.com/80/v2-fbbc631337ec73be7b5ed10d6e254129_hd.jpg)
+![](https://raw.githubusercontent.com/wiki/vvoovv/blender-osm/images/blender-osm.png)
+
+![](https://raw.githubusercontent.com/wiki/domlysz/blenderGIS/images/basemaps_demo.gif)
+
+![](https://raw.githubusercontent.com/wiki/domlysz/blenderGIS/images/osm_demo.gif)
 
 3.元素周期表和维基百科的结合[ptable](https://www.ptable.com/)，但这做的还不够好，我还希望能和[learnbgame](http://www.learnbgame.com/)和[images-of-elements](http://images-of-elements.com/)的内容结合
 
@@ -13,7 +17,9 @@
 5.生物大分子的3D呈现,将[PDB]()格式转化为3D模型
 化学物质的3D呈现，将[smiles](http://opensmiles.org/spec/open-smiles.html)格式文件转化为3D模型[blender-chemicals](https://github.com/patrickfuller/blender-chemicals)
 
-6. 可以建立三维地图[BlenderGIS](https://github.com/domlysz/BlenderGIS)
+![](http://patrickfuller.github.io/img/caffeine_step_five_960.png)
+![](http://development.root-1.de/Home-Dateien/AtBlend/DNA_icon.png)
+
 
 
 smiles文件数据库[pubchem.ncbi](https://pubchem.ncbi.nlm.nih.gov/search/search.cgi)——[chemexper](http://www.chemexper.com/index.shtml)
@@ -22,4 +28,9 @@ pdb文件数据库[rcsb](https://www.rcsb.org/)
 
 可以结合爬虫技术将pdb，smiles的数据爬取下来，在blender中批量转化为3D模型，
 
+GPS数据来源——谷歌地图等
+
+osm数据来源[openstreetmap](http://www.openstreetmap.org/#map=15/34.6293/112.4263)
+
+植物图片数据库——维基百科
 	
