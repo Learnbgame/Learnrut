@@ -2,7 +2,9 @@
 
 1.建立游戏场景，(目前尚未实现，但是有参考[farm](https://www.blend4web.com/apps/farm/farm.html?v=38ccd4be9c93b16cff5d8018746261bb)——[YoFrankie ](https://apricot.blender.org/)，因为是开源的，可以寻求合作，也可自己研究源代码)
 
-2.可以建立三维城市场景[blender-osm](https://github.com/vvoovv/blender-osm/)——[procedural_city_generation](https://github.com/josauder/procedural_city_generation)
+2.可以建立三维城市场景[blender-osm](http://www.openstreetmap.org/export#map=15/34.6293/112.4263)—— 
+
+![](https://pic2.zhimg.com/80/v2-fbbc631337ec73be7b5ed10d6e254129_hd.jpg)
 
 3.元素周期表和维基百科的结合[ptable](https://www.ptable.com/)，但这做的还不够好，我还希望能和[learnbgame](http://www.learnbgame.com/)和[images-of-elements](http://images-of-elements.com/)的内容结合
 
