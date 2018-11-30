@@ -1,13 +1,16 @@
 免疫学绪论
+
 1.免疫和免疫学概念。
+
 2.免疫应答的类型和特点。
+
 3.免疫系统的组成和功能
 
 <table syle = "border:2px dotted gray:">
 <tr>
 	<th colspan="2">免疫器官</th>
 	<th rowspan="2">免疫细胞</th>
-	<th>免疫分子 colspan="2"</th>
+	<th colspan="2">免疫分子</th>
 </tr>
 <tr>
 	<td>中枢</td>
@@ -47,5 +50,8 @@
 		<p>补体分子</p>
 		<p>细胞因子</p>
 	</td>
+</tr>
+<tr>
+	<th colspan="5">免疫细胞的组成</th>
 </tr>
 </table>
