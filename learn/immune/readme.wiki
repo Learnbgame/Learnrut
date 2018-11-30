@@ -5,15 +5,51 @@
 
 <table syle = "border:2px dotted gray:">
 <tr>
-	<td>免疫器官</td>
-	<td>中枢</td>
-	<td>胸腺</td>
-	<td>骨髓</td>
-	<td>法氏囊（禽类）</td>
+	<th colspan="2">免疫器官</th>
+	<th rowspan="2">免疫细胞</th>
+	<th>免疫分子 colspan="2"</th>
 </tr>
 <tr>
-	<td>TCR</td>
-	<td>BCR</td>
-	<td>CD分子</td>
+	<td>中枢</td>
+	<td>外周</td>
+	<td>模型分子</td>
+	<td>分泌型分子</td>
+</tr>
+<tr>
+	<td>
+		<p>胸腺</p>
+		<p>骨髓</p>
+		<p>法氏囊（禽类）</p>
+	</td>
+	<td>
+		<p>脾脏</p>
+		<p>淋巴结</p>
+		<p>粘膜相关淋巴组织</p>
+		<p>皮肤相关淋巴组织</p>
+	</td>
+	<td>
+		<p>干细胞系</p>
+		<p>淋巴细胞</p>
+		<p>单核吞噬细胞</p>
+		<p>其他APC（树突状细胞、内皮质细胞等）</p>
+		<p>其他免疫细胞（粒细胞、肥大细胞、血小板、红细胞等）</p>
+	</td>
+	<td>
+		<p>TCR</p>
+		<p>BCR</p>
+		<p>CD分子</p>
+		<p>粘附分子</p>
+		<p>MHC</p>
+		<p>其他</p>
+	</td>
+	<td>
+		<p>免疫球蛋白</p>
+		<p>补体分子</p>
+		<p>细胞因子</p>
+	</td>
+</tr>
+<tr>
+	<td>骨髓</td>
+	<td>淋巴结《
 </tr>
 </table>
