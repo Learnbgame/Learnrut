@@ -1,0 +1,65 @@
+免疫算法——IA
+
+IA与生物免疫系统概念对应关系
+
+<table>
+<tr>
+	<td>生物免疫系统</td>
+	<td>免疫算法</td>
+</tr>
+<tr>
+	<td>抗原</td>
+	<td>要解决的问题</td>
+</tr>
+<tr>
+	<td>抗体</td>
+	<td>问题的可行解</td>
+</tr>
+<tr>
+	<td>抗原识别</td>
+	<td>问题识别</td>
+</tr>
+<tr>
+	<td>从记忆细胞产生抗体</td>
+	<td>联想过去的成功</td>
+</tr>
+<tr>
+	<td>淋巴细胞分化</td>
+	<td>优良解（记忆）的保持</td>
+</tr>
+<tr>
+	<td>细胞抑制</td>
+	<td>剩余候选解的消除</td>
+</tr>
+<tr>
+	<td>抗体增加（细胞克隆)</td>
+	<td>利用遗传算子产生新抗体</td>
+</tr>
+<tr>
+	<td>亲和度</td>
+	<td>可行解的质量</td>
+</tr>
+<tr>
+	<td>细胞活化</td>
+	<td>免疫选择</td>
+</tr>
+<tr>
+	<td>细胞分化</td>
+	<td>个体克隆</td>
+</tr>
+<tr>
+	<td>亲和度成熟</td>
+	<td>变异</td>
+</tr>
+<tr>
+	<td>克隆抑制</td>
+	<td>克隆抑制</td>
+</tr>
+<tr>
+	<td>动态维持平衡</td>
+	<td>种群刷新</td>
+</tr>
+</table>
+
+
+[link](https://www.daimapi.com//algorithm6_1/)
